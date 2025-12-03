@@ -38,8 +38,8 @@
 
 ```bash
 # Clone and enter
-git clone https://github.com/yourusername/rnn-mechanics-2025](https://github.com/XxArixxX/Trajectory-Prediction-of-Mechanical-Systems-Using-Recurrent-Neural-Networks.git
-cd rnn-mechanics-2025
+git clone https://github.com/XxArixxX/Trajectory-Prediction-of-Mechanical-Systems-Using-Recurrent-Neural-Networks.git
+cd Trajectory-Prediction-of-Mechanical-Systems-Using-Recurrent-Neural-Networks
 
 # Install dependencies
 pip install torch numpy matplotlib scipy tqdm
